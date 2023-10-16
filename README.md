@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hey there, fellow bio-enthusiast! 🧬🔬
 
-<!--
-**William-Gardner-Biotech/William-Gardner-Biotech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a pathogen sequencing technician and research data analyst working in the [Shelby O'Connor lab at the University of Wisconsin, Madison.](https://slo.pathology.wisc.edu/) My role in client services keeps me at the forefront of cutting-edge research, offering a daily dose of excitement and innovation. 
 
-Here are some ideas to get you started:
+With a solid foundation in the world of genomics, nurtured in the [Korf Lab at the University of California, Davis] (https://github.com/KorfLab) and armed with a Bioinformatics degree, I am grepping and piping my way through large genomic datasets. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My current research interests include:
+- Unraveling the secrets of Viral Evolution
+- Proofreading Genome annotation pipelines
+- [Exploring Machine Learning](https://www.kaggle.com/willgardnerbiotech/code)
+- High Throughput Computing
+- Metagenomic environmental virus sampling/sequencing
+
+When I get tired of scratching my head while debugging I like to take a break by dawning my lab coat and transform plasma into FASTQ files.
+
+<img src = "https://github.com/William-Gardner-Biotech/Github-stats/blob/master/generated/overview.svg" width=400></img> <img src = "https://github.com/William-Gardner-Biotech/Github-stats/blob/master/generated/languages.svg" width=400></img>
