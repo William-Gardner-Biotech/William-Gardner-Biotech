@@ -2,7 +2,7 @@
 
 I'm a pathogen sequencing technician and research data analyst working in the [Shelby O'Connor lab at the University of Wisconsin, Madison.](https://slo.pathology.wisc.edu/) My role in client services keeps me at the forefront of cutting-edge research, offering a daily dose of excitement and innovation. 
 
-With a solid foundation in the world of genomics, nurtured in the [Korf Lab at the University of California, Davis] (https://github.com/KorfLab) and armed with a Bioinformatics degree, I am grepping and piping my way through large genomic datasets. 
+With a solid foundation in the world of genomics, nurtured in the [Korf Lab at the University of California, Davis](https://github.com/KorfLab) and armed with a Bioinformatics degree, I am grepping and piping my way through large genomic datasets. 
 
 My current research interests include:
 - Unraveling the secrets of Viral Evolution
