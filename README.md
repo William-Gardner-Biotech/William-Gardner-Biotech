@@ -6,6 +6,7 @@ With a solid foundation in the world of genomics, nurtured in the [Korf Lab at t
 
 My current research interests include:
 - Unraveling the secrets of Viral Evolution
+- Data Visualization and Public Health Dashboards
 - Proofreading Genome annotation pipelines
 - [Exploring Machine Learning](https://www.kaggle.com/willgardnerbiotech/code)
 - High Throughput Computing
