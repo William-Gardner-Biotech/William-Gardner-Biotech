@@ -6,10 +6,9 @@ With a solid foundation in the world of genomics, nurtured in the [Korf Lab at t
 
 My current research interests include:
 - Unraveling the secrets of Viral Evolution
-- Data Visualization and Public Health Dashboards
-- Proofreading Genome annotation pipelines
+- [Data Visualization and Public Health Dashboards](https://lungfish-science.github.io/wastewater-dashboard/)
 - [Exploring Machine Learning](https://www.kaggle.com/willgardnerbiotech/code)
-- High Throughput Computing
+- [High Throughput Computing](https://chtc.cs.wisc.edu/)
 - Metagenomic environmental virus sampling/sequencing
 
 When I get tired of scratching my head while debugging I like to take a break by dawning my lab coat and transform some plasma into FASTQ files.
