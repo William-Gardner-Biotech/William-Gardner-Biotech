@@ -12,6 +12,4 @@ My current research interests include:
 - High Throughput Computing
 - Metagenomic environmental virus sampling/sequencing
 
-When I get tired of scratching my head while debugging I like to take a break by dawning my lab coat and transform plasma into FASTQ files.
-
-<img src = "https://github.com/William-Gardner-Biotech/Github-stats/blob/master/generated/overview.svg" width=400></img> <img src = "https://github.com/William-Gardner-Biotech/Github-stats/blob/master/generated/languages.svg" width=400></img>
+When I get tired of scratching my head while debugging I like to take a break by dawning my lab coat and transform some plasma into FASTQ files.
