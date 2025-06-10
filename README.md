@@ -10,5 +10,6 @@ My current research interests include:
 - [Exploring Machine Learning](https://www.kaggle.com/willgardnerbiotech/code)
 - [High Throughput Computing](https://chtc.cs.wisc.edu/)
 - Metagenomic environmental virus sampling/sequencing
+- Exploring the latest AI tools.
 
 When I get tired of scratching my head while debugging I like to take a break by dawning my lab coat and transform some plasma into FASTQ files.
